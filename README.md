@@ -24,7 +24,6 @@ Mi objetivo profesional es trabajar en el sector aeroespacial y de defensa como 
 
 🚧 *Iré añadiendo proyectos según los vaya completando.*
 
-- **TattooFy** — Catálogo web de tatuajes desarrollado en WordPress con LocalWP. *(En desarrollo)*
 
 ---
 
