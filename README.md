@@ -29,7 +29,7 @@ kids-quest-java
 
 ### 🎯 Sobre mi perfil profesional
 
-Mi formación y trayectoria militar me han dado disciplina, capacidad de trabajo bajo presión, trabajo en equipo en entornos exigentes y experiencia operativa. Combino esa base con la formación técnica que estoy adquiriendo en DAM para construir un perfil orientado a empresas que valoran ambas cualidades, especialmente en el sector defensa y aeroespacial.
+Mi formación y trayectoria militar me han dado disciplina, capacidad de trabajo bajo presión, trabajo en equipo en entornos exigentes y experiencia operativa. Combino esa base con la formación técnica que estoy adquiriendo en DAM para construir un perfil orientado a empresas que valoran ambas cualidades.
 
 ---
 
