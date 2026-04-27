@@ -2,7 +2,7 @@
 
 Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en Madrid.
 Actualmente militar en la Infantería de Marina, en transición hacia el desarrollo de software.
-Mi objetivo profesional es trabajar en el sector aeroespacial y de defensa como desarrollador.
+Mi objetivo profesional es trabajar en el sector del desarrollado de software.
 
 ---
 
