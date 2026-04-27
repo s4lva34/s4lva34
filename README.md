@@ -36,8 +36,6 @@ Mi formación y trayectoria militar me han dado disciplina, capacidad de trabajo
 ### 📫 Contacto
 
 - 📍 Cadiz, España
-- 💼 https://www.linkedin.com/in/salvador-callealta-vega-3a4635406?utm_source=share_via&utm_content=profile&utm_medium=member_ios
-
----
+- 💼 https://www.linkedin.com/in/salvador-callealta-vega-3a4635406
 
 *Perfil en construcción — actualizo este espacio según avanzo en mi formación y proyectos.*
