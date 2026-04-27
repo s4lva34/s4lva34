@@ -22,7 +22,7 @@ Mi objetivo profesional es trabajar en el sector del desarrollado de software.
 
 ### 📂 Proyectos destacados
 
-🚧 *Iré añadiendo proyectos según los vaya completando.*
+kids-quest-java
 
 
 ---
