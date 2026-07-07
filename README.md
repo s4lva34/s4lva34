@@ -14,15 +14,13 @@ Mi objetivo profesional es trabajar en el sector del desarrollado de software.
 - **Frontend / Web:** HTML, CSS, JavaScript, WordPress
 - **Bases de datos:** MySQL, MariaDB
 - **Redes:** Subnetting IPv4, fundamentos de redes
-- **Herramientas:** Git, GitHub, LocalWP, VS Code, IntelliJ
-
-**Próximos objetivos de aprendizaje:** C# / .NET, Spring Boot, frameworks de testing.
+- **Herramientas:** Git, GitHub, LocalWP, VS Code, IntelliJ, Android Studio. Eclipse, Draw.io
 
 ---
 
 ### 📂 Proyectos destacados
 
-kids-quest-java
+invitacion-boda-interactiva
 
 
 ---
