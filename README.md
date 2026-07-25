@@ -18,12 +18,6 @@ Mi objetivo profesional es trabajar en el sector del desarrollado de software.
 
 ---
 
-### 📂 Proyectos destacados
-
-invitacion-boda-interactiva
-
-
----
 
 ### 🎯 Sobre mi perfil profesional
 
