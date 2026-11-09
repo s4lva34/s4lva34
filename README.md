@@ -32,7 +32,7 @@ Asignatura de Acceso a Datos. Importa y exporta un catálogo de películas entre
 Java y Kotlin son los lenguajes que más uso. También he programado en Dart, Python, SQL y JavaScript.
 
 Para Android, Android Studio con Room, DataStore y RecyclerView; para multiplataforma, Flutter y Compose.
-En bases de datos he trabajado con MySQL, MariaDB y PostgreSQL. Del primer curso me quedan Linux y
+En bases de datos he trabajado con MySQL, MariaDB y PostgreSQL. En primero también trabajé con Linux,
 scripts en Bash, redes, HTML y CSS. Uso Git para todo y IntelliJ IDEA como editor principal.
 
 ### Contacto
