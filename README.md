@@ -1,33 +1,34 @@
-## Hola, soy Salva 👋
+## Salva Callealta
 
-Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en Madrid.
-Actualmente militar en la Infantería de Marina, en transición hacia el desarrollo de software.
-Mi objetivo profesional es trabajar en el sector del desarrollado de software.
+Estudio segundo de Desarrollo de Aplicaciones Multiplataforma (DAM) en U-tad, a distancia, desde Cádiz.
+Me interesa sobre todo el desarrollo móvil y las aplicaciones pequeñas que resuelven un problema concreto.
 
----
+### En qué ando
 
-### 🛠️ Stack técnico
+Este curso estoy aprendiendo Android con Kotlin (Room, DataStore, corrutinas), acceso a datos con
+JDBC y PostgreSQL, y módulos para Odoo en Python. Fuera de clase sigo con mis proyectos y estoy
+leyendo *Código limpio*, que se nota bastante en cómo escribo ahora comparado con primero.
 
-**Lenguajes y tecnologías que estoy aprendiendo y usando:**
+### Proyectos
 
-- **Backend:** Java, SQL (procedimientos almacenados, funciones, CASE)
-- **Frontend / Web:** HTML, CSS, JavaScript, WordPress
-- **Bases de datos:** MySQL, MariaDB
-- **Redes:** Subnetting IPv4, fundamentos de redes
-- **Herramientas:** Git, GitHub, LocalWP, VS Code, IntelliJ, Android Studio, Eclipse, Draw.io
+**[Prisma](https://s4lva34.github.io/prisma-descarga/)** · Kotlin, Compose Desktop\
+App de escritorio para macOS para organizar el estudio: asignaturas, tareas, calendario, Pomodoro y notas.
 
----
+**[Road to Black](https://github.com/s4lva34/road-to-black)** · Flutter, Dart\
+Registro de entrenamientos de jiu-jitsu brasileño: calendario, progreso de cinturón, récord de combates
+y unas estadísticas tipo videojuego que suben según lo que entrenas.
 
+**[Videoteca](https://github.com/s4lva34/Videoteca)** · Java, JDBC, PostgreSQL\
+Importa y exporta un catálogo de películas entre XML y una base de datos PostgreSQL.
 
-### 🎯 Sobre mi perfil profesional
+### Con qué trabajo
 
-Mi formación y trayectoria militar me han dado disciplina, capacidad de trabajo bajo presión, trabajo en equipo en entornos exigentes y experiencia operativa. Combino esa base con la formación técnica que estoy adquiriendo en DAM para construir un perfil orientado a empresas que valoran ambas cualidades.
+Java y Kotlin son los lenguajes que más uso. También he programado en Dart, Python, SQL y JavaScript.
 
----
+Para Android, Android Studio con Room, DataStore y RecyclerView; para multiplataforma, Flutter y Compose.
+En bases de datos he trabajado con MySQL, MariaDB y PostgreSQL. Del primer curso me quedan Linux y
+scripts en Bash, redes, HTML y CSS. Uso Git para todo y IntelliJ IDEA como editor principal.
 
-### 📫 Contacto
+### Contacto
 
-- 📍 Cadiz, España
-- 💼 https://www.linkedin.com/in/salvador-callealta-vega-3a4635406
-
-*Perfil en construcción — actualizo este espacio según avanzo en mi formación y proyectos.*
+[LinkedIn](https://www.linkedin.com/in/salvador-callealta-vega-3a4635406)
