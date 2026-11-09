@@ -9,7 +9,9 @@ Este curso estoy aprendiendo Android con Kotlin (Room, DataStore, corrutinas), a
 JDBC y PostgreSQL, y módulos para Odoo en Python. Fuera de clase sigo con mis proyectos y estoy
 leyendo *Código limpio*, que se nota bastante en cómo escribo ahora comparado con primero.
 
-### Proyectos
+### Proyectos propios
+
+Los hago por mi cuenta, fuera de clase, para aprender tecnologías que no entran en el ciclo.
 
 **[Prisma](https://s4lva34.github.io/prisma-descarga/)** · Kotlin, Compose Desktop\
 App de escritorio para macOS para organizar el estudio: asignaturas, tareas, calendario, Pomodoro y notas.
@@ -18,8 +20,12 @@ App de escritorio para macOS para organizar el estudio: asignaturas, tareas, cal
 Registro de entrenamientos de jiu-jitsu brasileño: calendario, progreso de cinturón, récord de combates
 y unas estadísticas tipo videojuego que suben según lo que entrenas.
 
+### Proyectos del ciclo
+
+Las prácticas y proyectos de las asignaturas de DAM también los subo aquí a medida que los entrego.
+
 **[Videoteca](https://github.com/s4lva34/Videoteca)** · Java, JDBC, PostgreSQL\
-Importa y exporta un catálogo de películas entre XML y una base de datos PostgreSQL.
+Asignatura de Acceso a Datos. Importa y exporta un catálogo de películas entre XML y una base de datos PostgreSQL.
 
 ### Con qué trabajo
 
